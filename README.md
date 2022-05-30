@@ -20,9 +20,6 @@
 * **Css-Loader**
 * **File-loader**
 
-## 👨🏾‍💻 Demostración
-Link del servidor de clase:
-
 ## ⚡ Aspectos de la rúbrica
 * ✅ [Criterio subjetivo] (40 puntos) Según qué tan similar sea su diseño al sitio en el que se basaron, deben enviar el sitio en los comentarios.
 * ✅ (5 puntos) Si entregan un link a su proyecto publicado en el servidor de la clase
@@ -38,7 +35,7 @@ Link del servidor de clase:
 
 ## Autor
 
-👤 **Alejandro Gómez**
+👤 **Alejandro Gómez - 20347**
 
 
 ## Muestra tu apoyo
