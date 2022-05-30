@@ -20,6 +20,9 @@
 * **Css-Loader**
 * **File-loader**
 
+## ⚙️ Hosteado en:
+https://juanelcaballo.club/20347/proyecto1/index.html
+
 ## ⚡ Aspectos de la rúbrica
 * ✅ [Criterio subjetivo] (40 puntos) Según qué tan similar sea su diseño al sitio en el que se basaron, deben enviar el sitio en los comentarios.
 * ✅ (5 puntos) Si entregan un link a su proyecto publicado en el servidor de la clase
