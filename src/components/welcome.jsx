@@ -17,6 +17,9 @@ const Text = () => (
     <div>
       <div className="searchBar">
         <input className="inputSearch1" type="text" />
+        <div className="searchText1">
+          <h3 className="lupa">🔍</h3>
+        </div>
       </div>
       <h5 className="enter">Enter artist name or song title</h5>
     </div>

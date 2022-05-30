@@ -10,7 +10,7 @@ const Tables = () => (
         <th>‎</th>
         <tbody>
           <tr>
-            <td className="tableItem">Los Mesoneros - &quot;Últimas Palabras&quot;</td>
+            <td className="tableItem1">Los Mesoneros - &quot;Últimas Palabras&quot;</td>
           </tr>
           <tr>
             <td className="tableItem">Los Mesoneros - &quot;Pangea&quot;</td>
@@ -31,7 +31,7 @@ const Tables = () => (
         <th>‎</th>
         <tbody>
           <tr>
-            <td className="tableItem">Bad Bunny - &quot;Ye ye ye&quot;</td>
+            <td className="tableItem1">Bad Bunny - &quot;Ye ye ye&quot;</td>
           </tr>
           <tr>
             <td className="tableItem">Bad Bunny - &quot;Neverita&quot;</td>
