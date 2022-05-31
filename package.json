@@ -10,7 +10,7 @@
     "lint:fix": "npm run lint -- --fix",
     "build-server": "webpack --config webpack.server.js",
     "dev-server": "node ./server/bundle.jsx",
-    "all": "npm run build && npm run build-server && npm run dev-server"
+    "all": "npm run build && npm run build-server && npm run dev-server webpack --mode none"
   },
   "keywords": [],
   "author": "Alecraft",
@@ -36,9 +36,9 @@
     "mini-css-extract-plugin": "^2.6.0",
     "prettier": "^2.6.2",
     "react-test-renderer": "^18.1.0",
-    "sass": "^1.50.1",
+    "sass": "^1.52.1",
     "sass-loader": "^12.6.0",
-    "webpack": "^5.72.0",
+    "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.7.4"
   },
@@ -47,10 +47,13 @@
     "@babel/plugin-transform-regenerator": "^7.18.0",
     "@babel/plugin-transform-runtime": "^7.18.2",
     "express": "^4.18.1",
+    "ignore-loader": "^0.1.2",
     "prop-types": "^15.8.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-router-dom": "^6.3.0",
-    "webpack-node-externals": "^3.0.0"
+    "style-loader": "^3.3.1",
+    "webpack-node-externals": "^3.0.0",
+    "mini-css-extract-plugin": "^2.6.0"
   }
 }

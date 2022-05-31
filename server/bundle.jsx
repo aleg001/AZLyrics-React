@@ -57,37 +57,37 @@ var external_express_default = /*#__PURE__*/__webpack_require__.n(external_expre
 ;// CONCATENATED MODULE: ./src/css/albumItem.sass
 /* harmony default export */ const albumItem = (__webpack_require__.p + "1d61241bb86381a6e850eb5094374b6d.sass");
 ;// CONCATENATED MODULE: ./src/assets/1.jpg
-const _1_namespaceObject = __webpack_require__.p + "f3b8f3049ff4e2ac885f.jpg";
+/* harmony default export */ const _1 = (__webpack_require__.p + "f3b8f3049ff4e2ac885fb790f39c0cb7.jpg");
 ;// CONCATENATED MODULE: ./src/assets/2.jpg
-const _2_namespaceObject = __webpack_require__.p + "888ef393a7f31978e2a0.jpg";
+/* harmony default export */ const _2 = (__webpack_require__.p + "888ef393a7f31978e2a051e707d32a3a.jpg");
 ;// CONCATENATED MODULE: ./src/assets/3.jpg
-const _3_namespaceObject = __webpack_require__.p + "fa63e2d19e5c66cab557.jpg";
+/* harmony default export */ const _3 = (__webpack_require__.p + "fa63e2d19e5c66cab557e318cd04adb5.jpg");
 ;// CONCATENATED MODULE: ./src/assets/4.jpg
-const _4_namespaceObject = __webpack_require__.p + "442b78c5babd1e966a35.jpg";
+/* harmony default export */ const _4 = (__webpack_require__.p + "442b78c5babd1e966a35fad5fec2885f.jpg");
 ;// CONCATENATED MODULE: ./src/assets/5.jpg
-const _5_namespaceObject = __webpack_require__.p + "ec490fa6295efdc78cb9.jpg";
+/* harmony default export */ const _5 = (__webpack_require__.p + "ec490fa6295efdc78cb98f8b2cd33ac1.jpg");
 ;// CONCATENATED MODULE: ./src/assets/6.jpg
-const _6_namespaceObject = __webpack_require__.p + "61290859f0e708fa292b.jpg";
+/* harmony default export */ const _6 = (__webpack_require__.p + "61290859f0e708fa292b61ae30807128.jpg");
 ;// CONCATENATED MODULE: ./src/assets/7.jpg
-const _7_namespaceObject = __webpack_require__.p + "5859ae0a0378d4f4df0d.jpg";
+/* harmony default export */ const _7 = (__webpack_require__.p + "5859ae0a0378d4f4df0ddfe20ecca815.jpg");
 ;// CONCATENATED MODULE: ./src/assets/8.jpg
-const _8_namespaceObject = __webpack_require__.p + "f48de8eb39dc221d3506.jpg";
+/* harmony default export */ const _8 = (__webpack_require__.p + "f48de8eb39dc221d350650947bcdab38.jpg");
 ;// CONCATENATED MODULE: ./src/assets/9.jpg
-const _9_namespaceObject = __webpack_require__.p + "d808856fafb7f0a55664.jpg";
+/* harmony default export */ const _9 = (__webpack_require__.p + "d808856fafb7f0a55664f517ecb233d7.jpg");
 ;// CONCATENATED MODULE: ./src/assets/10.jpg
-const _10_namespaceObject = __webpack_require__.p + "180feaa838007ae2abdb.jpg";
+/* harmony default export */ const _10 = (__webpack_require__.p + "180feaa838007ae2abdbc703dd36967d.jpg");
 ;// CONCATENATED MODULE: ./src/assets/11.jpg
-const _11_namespaceObject = __webpack_require__.p + "14e9269ac068b04169d3.jpg";
+/* harmony default export */ const _11 = (__webpack_require__.p + "14e9269ac068b04169d32a235502efb3.jpg");
 ;// CONCATENATED MODULE: ./src/assets/12.jpg
-const _12_namespaceObject = __webpack_require__.p + "8c64f50d565cded63df1.jpg";
+/* harmony default export */ const _12 = (__webpack_require__.p + "8c64f50d565cded63df10f73f8614dc2.jpg");
 ;// CONCATENATED MODULE: ./src/assets/13.jpg
-const _13_namespaceObject = __webpack_require__.p + "ac59543cdef51eb0e1f5.jpg";
+/* harmony default export */ const _13 = (__webpack_require__.p + "ac59543cdef51eb0e1f5f01952b78c06.jpg");
 ;// CONCATENATED MODULE: ./src/assets/14.jpg
-const _14_namespaceObject = __webpack_require__.p + "f4caf9ef1000268c8425.jpg";
+/* harmony default export */ const _14 = (__webpack_require__.p + "f4caf9ef1000268c84253936f41d6828.jpg");
 ;// CONCATENATED MODULE: ./src/assets/15.jpg
-const _15_namespaceObject = __webpack_require__.p + "6864335f84a7fb4deec5.jpg";
+/* harmony default export */ const _15 = (__webpack_require__.p + "6864335f84a7fb4deec582354153dcb3.jpg");
 ;// CONCATENATED MODULE: ./src/assets/16.jpg
-const _16_namespaceObject = __webpack_require__.p + "91c91f6723a379907d14.jpg";
+/* harmony default export */ const _16 = (__webpack_require__.p + "91c91f6723a379907d144f1a0c2a9bb6.jpg");
 ;// CONCATENATED MODULE: ./src/components/albumGrid.jsx
 /* eslint-disable react/no-unescaped-entities */
 
@@ -124,7 +124,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "itemGrid"
   }, /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _1_namespaceObject,
+    src: _1,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("a", {
     href: "google.com",
@@ -133,7 +133,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Americamorfosis\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _2_namespaceObject,
+    src: _2,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("a", {
     href: "google.com",
@@ -142,7 +142,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Voicenotes\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _3_namespaceObject,
+    src: _3,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("a", {
     href: "google.com",
@@ -151,7 +151,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Continuum\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _4_namespaceObject,
+    src: _4,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -162,7 +162,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Metropolis Pt.2\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _5_namespaceObject,
+    src: _5,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -173,7 +173,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Red (TV)\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _6_namespaceObject,
+    src: _6,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -184,7 +184,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"SOUR\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _7_namespaceObject,
+    src: _7,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -195,7 +195,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Happier Than Ever\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _8_namespaceObject,
+    src: _8,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -206,7 +206,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Kind of Blue\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _9_namespaceObject,
+    src: _9,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -217,7 +217,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Harry's House\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _10_namespaceObject,
+    src: _10,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -228,7 +228,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Hamilton\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _11_namespaceObject,
+    src: _11,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -239,7 +239,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Hybrid Theory\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _12_namespaceObject,
+    src: _12,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -250,7 +250,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Un Verano Sin Ti\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _13_namespaceObject,
+    src: _13,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -261,7 +261,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, " \"American Idiot\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _14_namespaceObject,
+    src: _14,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -272,7 +272,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Blood Harmony\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _15_namespaceObject,
+    src: _15,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -283,7 +283,7 @@ var AlbumGridItem = function AlbumGridItem() {
     className: "albumTitle"
   }, "\"Pangea\""))), /*#__PURE__*/external_react_default().createElement("div", null, /*#__PURE__*/external_react_default().createElement("img", {
     className: "AlbumCover",
-    src: _16_namespaceObject,
+    src: _16,
     alt: ""
   }), /*#__PURE__*/external_react_default().createElement("div", {
     className: "text"
@@ -303,7 +303,7 @@ var albumGrid = function albumGrid() {
 ;// CONCATENATED MODULE: ./src/css/navBar.sass
 /* harmony default export */ const navBar = (__webpack_require__.p + "9c53d714f3bf03463e8683250d06bcfd.sass");
 ;// CONCATENATED MODULE: ./src/assets/logo.png
-const logo_namespaceObject = __webpack_require__.p + "f0baa8d53397cd47f94d.png";
+/* harmony default export */ const logo = (__webpack_require__.p + "f0baa8d53397cd47f94d1d79a4caf91a.png");
 ;// CONCATENATED MODULE: ./src/components/navBar.jsx
 /* eslint-disable no-unused-vars */
 
@@ -314,7 +314,7 @@ var AtoZ = function AtoZ() {
   return /*#__PURE__*/external_react_default().createElement("div", {
     className: "lettersCont"
   }, /*#__PURE__*/external_react_default().createElement("img", {
-    src: logo_namespaceObject,
+    src: logo,
     alt: "Logo",
     className: "logo"
   }), /*#__PURE__*/external_react_default().createElement("ul", null, /*#__PURE__*/external_react_default().createElement("div", {
@@ -620,7 +620,7 @@ var PORT = process.env.PORT || 3000;
 var app = external_express_default()();
 app.get('/', function (req, res) {
   var element = server_namespaceObject.renderToString( /*#__PURE__*/external_react_default().createElement(src_App, null));
-  var html = "\n    <html lang=\"en\">\n      <head>\n          <title>AZLyrics</title>\n      </head>\n      <body>\n          <div id=\"root\">".concat(element, "</div>\n          <script src=\"./bundle.js\"></script>\n      </body>\n    </html>\n  ");
+  var html = "\n    <html lang=\"en\">\n      <head>\n          <title>AZLyrics</title>\n      </head>\n      <body>\n          <div id=\"root\">".concat(element, "</div>\n          <script src=\"./main.bundle.js\"></script>\n      </body>\n    </html>\n  ");
   res.send(html);
 });
 app.use(external_express_default()["static"](external_path_default().join(__dirname, '../dist')));
