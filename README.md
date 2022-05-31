@@ -34,7 +34,7 @@ https://juanelcaballo.club/20347/proyecto1/index.html
 * ✅ (5 puntos) Por implementar Webpack
 * ✅ (5 puntos) Por implementar Sass
 * ✅ (5 puntos) Por implementar loaders para imágenes
-* ✅ (50 puntos) Por implementar Server Side Rendering en su aplicación
+* ✅ (50 puntos) Por implementar Server Side Rendering en su aplicación (Ver branch de SSR)
 
 ## Autor
 
